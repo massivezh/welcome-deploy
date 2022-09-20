@@ -12,4 +12,4 @@ patchesJson6902:
     version: v1
 images:
 - name: docker.io/massivezh/welcome-app
-  newTag: 855ea3
+  newTag: 2f7d99
